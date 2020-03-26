@@ -60,7 +60,9 @@ ZScaler | [Step-by-Step Configuration Guide for ZIA](https://help.zscaler.com/zi
 
 Items marked _**(Unknown)**_ need further research! You can help contribute to this list and make it easier for administrators to find and securely configure remote working solutions.
 
-**Pull requests are very welcome!** Though to aid review, please:
+If you'd like to make a suggestion, or correct something, then [raise an issue](https://github.com/cydea/remote-working-psirt/issues).
+
+**Pull requests are also very welcome!** Though to aid review, please:
 
 - Submit one PR per section you are updating
 - Add new vendors in alphabetical order
