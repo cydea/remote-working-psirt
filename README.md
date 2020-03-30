@@ -43,6 +43,7 @@ Cisco | [Cisco AnyConnect Configuration Guide](https://www.cisco.com/c/en/us/sup
 F5 Networks | (Unknown) | [AskF5 New & Updated Articles](https://support.f5.com/csp/new-updated-articles) (needs manual filter for ‘Security Advisory under Document Type) | [Subscribe](https://interact.f5.com/F5-Preference-Center.html)
 Fortinet | [FortiGate / FortiOS Tele-Working Guides](https://docs.fortinet.com/teleworking) | [FortiGuard PSIRT Advisories](https://fortiguard.com/psirt) | [RSS](https://fortiguard.com/rss-feeds)
 Palo Alto Networks | (Unknown) | [Palo Alto Networks Security Advisories](https://security.paloaltonetworks.com) | [Subscribe](https://support.paloaltonetworks.com/SupportAccount/Preferences) [RSS](https://security.paloaltonetworks.com/rss.xml)
+pfSense | [Configuring an OpenVPN Remote Access Server](https://docs.netgate.com/pfsense/en/latest/vpn/openvpn/openvpn-remote-access-server.html) | [pfSense Security Advisories](https://www.netgate.com/security/advisories.html) | [Subscribe via Netgate](https://www.netgate.com/security/)
 Pulse Secure | [Pulse Connect Secure: Security configuration best practices](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB29805) | [Pulse Secure Security Advisories](https://kb.pulsesecure.net/?atype=sa) | [RSS](https://kb.pulsesecure.net/pkb_RSS?q=Pulse_Security_Advisories__kav;10)
 WatchGuard | (Unknown) | [WatchGuard Security Portal](https://www.watchguard.com/wgrd-support/security-portal/overview) | (Unknown)
 
